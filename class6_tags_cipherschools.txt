@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+two roads diverged in a yellow wood,
+<br>
+and sorry i could not travel both
+<br>
+and be one travelor, long instead
+<br>
+and looked down one as far as i could
+<br>
+to where it bent in the undergrowth;
+<br>
+
+<p>
+and both that morning equally lay
+<hr>
+im leaves no step had trodden black.
+</p>
+<!-- what pre tags does that  it will print the code in the same format as u written in the code -->
+
+<pre>
+' The starlight Night'was
+       one of two poems which hopkins
+      	sent to his mother as a birthday present,
+
+the other poem being
+</pre>
+
+<p>you can change anything 
+to highlight any thing use code tag
+<code> sjfhshflksjdfskdjk</code>
+
+<p> if you want to word to be printed in saame without any space
+use %nbsp; use two or three times to apply spaces between two words
+</p>
+<p> Mern%nbsp;Developer</p>
+
+
+</body>
+</html>

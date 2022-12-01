@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LINKS AND NAVIGATION</title>
+</head>
+<body>
+	<a href="lists.html">click here</a>
+<!-- absolute and relative types of url paths
+relative url paths means that the url file is inside the folder or it is within it
+and absolute url path means that the link is redirected to any website ex are youtube.com etc
+-->
+
+
+
+</body>
+</html>

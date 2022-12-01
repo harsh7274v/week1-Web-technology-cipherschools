@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<!--weird character in html
+html entities -->
+	<h2>HTML ENTITIES</h2>
+	<ul>
+	    <li>&lt;</li><!--use to give greater signs-->
+            <li>&gt;</li>
+	    <li>&amp;</li>
+            <li>&nbsp;</li>
+            <li>&copy;</li>
+            <li>&star;</li>
+            <li>&trade;</li>
+            <li>&reg;</li>
+            <li>&commat;</li>
+        </ul>
+
+
+</body>
+</html>
